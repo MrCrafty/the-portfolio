@@ -41,7 +41,7 @@ function Contact() {
                 <strong>Address:</strong> Some Street India
               </p>
               <p>
-                <strong>Email:</strong> dhruvi211@gmail.com
+                <strong>Email:</strong> harsh.mithapara@gmail.com
               </p>
               <p>
                 <strong>Website:</strong> www.yourwebsite.com
@@ -155,7 +155,7 @@ const Section = styled.section`
         margin: 0;
         text-align: center;
         p {
-          font-size: 0.8rem;
+          font-size: 0.6rem;
         }
         h2 {
           font-size: 1.3rem;

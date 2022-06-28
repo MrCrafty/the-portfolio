@@ -22,7 +22,7 @@ export default function Navbar() {
     >
       <div className="brand__container">
         <a href="#" className="brand">
-          <img src={logo} alt="Logo" />
+          {/* <img src={logo} alt="Logo" /> */}
         </a>
         <div className="toggle">
           {isNavOpen ? (
@@ -43,13 +43,13 @@ export default function Navbar() {
             <a href="#home">Home</a>
           </li>
           <li>
-            <a href="#services">Services</a>
+            {/* <a href="#services">Services</a> */}
           </li>
           <li>
             <a href="#portfolio">Portfolio</a>
           </li>
           <li>
-            <a href="#blog">Blog</a>
+            {/* <a href="#blog">Blog</a> */}
           </li>
           <li>
             <a href="#skills">Skills</a>

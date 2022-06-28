@@ -20,11 +20,11 @@ export default function App() {
       <Home />
       <Services />
       <Portfolio />
-      <Milestones />
-      <Blog />
-      <Video />
-      <Pricing />
-      <Testimonials />
+      {/* <Milestones /> */}
+      {/* <Blog /> */}
+      {/* <Video /> */}
+      {/* <Pricing /> */}
+      {/* <Testimonials /> */}
       <Skills />
       <Contact />
       <Footer />

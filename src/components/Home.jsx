@@ -17,19 +17,19 @@ export default function Home() {
       >
         <div className="content">
           <div className="title">
-            <h1>Digital Crafters</h1>
+            <h1>Harsh Mithapara</h1>
           </div>
           <div className="subTitle">
             <p>
-              The not errors rendering handed he you concepts fate objective
+              <em>"The not errors rendering handed he you concepts fate objective
               rare boss a road a he while what before to he is size separated
-              room cold hunt by and they my
+              room cold hunt by"</em>
             </p>
           </div>
           <img src={play} alt="Play Button" />
         </div>
       </motion.div>
-      <motion.div
+      {/* <motion.div
         className="info"
         variants={homeInfoAnimation}
         transition={{ delay: 0.3, duration: 0.6, type: "tween" }}
@@ -41,7 +41,7 @@ export default function Home() {
           </div>
           <div className="col">
             <strong>Email</strong>
-            <p>dhruvi211@gmail.com</p>
+            <p>harsh.mithapara@gmail.com</p>
           </div>
           <div className="col">
             <strong>Mobile</strong>
@@ -63,7 +63,7 @@ export default function Home() {
             <p>08:00 to 18:00</p>
           </div>
         </div>
-      </motion.div>
+      </motion.div> */}
     </Section>
   );
 }
